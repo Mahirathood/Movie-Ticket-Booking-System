@@ -1,0 +1,11 @@
+Django==4.2.25
+djangorestframework==3.15.2
+djangorestframework-simplejwt==5.3.1
+drf-spectacular==0.28.0
+PyJWT==2.9.0
+sqlparse==0.5.3
+asgiref==3.8.1
+PyYAML==6.0.3
+jsonschema==4.23.0
+typing_extensions==4.13.2
+uritemplate==4.1.1
